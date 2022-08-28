@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/mskrha/oauth2-token-refresher)](https://goreportcard.com/report/github.com/mskrha/oauth2-token-refresher)
+
 ## oauth2-token-refresher
 
 ### Description
